@@ -1,8 +1,8 @@
 export default Colors = {
-  CARDS : '#1f2b3e',
-  BG: '#0F1C2E',
-  PRIMARY_TEXT : '#FFFFFF',
-  SECONDARY_TEXT: '#e0e0e0',
-  SECONDARY: '#3D5A81',
-  PRIMARY: '#1F3A50'
+  CARDS : '#00668c',
+  BG: '#04364d',
+  PRIMARY_TEXT : '#effaff',
+  SECONDARY_TEXT: '#b6edff',
+  SECONDARY: '#0097d2',
+  PRIMARY: '#2dd1ff'
 }

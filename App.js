@@ -7,6 +7,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import Home from './App/Screens/HomeScreen/Home';
 import TabNavigation from './App/Navigation/TabNavigation';
 import { useFonts } from 'expo-font';
+import LogNavigation from './App/Navigation/LogNavigation';
 
 export default function App() {
 
@@ -26,7 +27,7 @@ export default function App() {
           </NavigationContainer>
         </SignedIn>
         <SignedOut>
-          <LogHome/>
+          <LogNavigation/>
         </SignedOut>
         <StatusBar style="dark" />
       </View>
